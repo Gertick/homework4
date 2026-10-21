@@ -21,7 +21,10 @@
 
 ***Блок-схема***
 
-*(Ссылка на блок-схему)*
+<img width="589" height="750" alt="изображение" src="https://github.com/user-attachments/assets/88d77724-3eaf-4bfa-adb2-100be8cca494" />
+
+
+*https://drive.google.com/file/d/1Mr25K5ZYp8SUmyawfbmjwvz1on3GU38e/view?usp=sharing*
 
 ## 2. ***Реализация программы***
 
